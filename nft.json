@@ -1,0 +1,47 @@
+{
+  "description": "A dynamic illustration of a powerful warrior in an orange-themed background, showcasing intense energy and focus.",
+  "external_url": "https://white-ready-chimpanzee-987.mypinata.cloud/ipfs/QmRJxCLiyzsZpN9yo27A5y2P77icXTEGRAqkYb3cEUqebz?pinataGatewayToken=ZW8gk5ckjC5Leq0bLO2Mjz2SQJQPfLlH3s8Y-GCv0pmqiV2ljTFQcNbqvx3KJUrx",
+  "image": "https://white-ready-chimpanzee-987.mypinata.cloud/ipfs/QmRJxCLiyzsZpN9yo27A5y2P77icXTEGRAqkYb3cEUqebz?pinataGatewayToken=ZW8gk5ckjC5Leq0bLO2Mjz2SQJQPfLlH3s8Y-GCv0pmqiV2ljTFQcNbqvx3KJUrx",
+  "name": "Warrior's Determination",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Power Stance"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Focused"
+    },
+    {
+      "trait_type": "Energy Level",
+      "value": 9
+    },
+    {
+      "trait_type": "Strength",
+      "value": 95
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Action"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Power Boost",
+      "value": 50
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Energy Amplification",
+      "value": 15
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Edition",
+      "value": 1
+    }
+  ]
+}
